@@ -1,2 +1,5 @@
-# demo-github-first-ESC
-STAT545 demo - Eva S-C, CELL program
+# demo-github-first-ES
+-
+STAT545 demo
+-
+Eva S-C, CELL program
