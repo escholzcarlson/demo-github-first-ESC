@@ -4,3 +4,5 @@ head(mtcars)
 mean_mpg <- mean(mtcars$mpg)
 
 mean_mpg
+
+mean_mpg/2
